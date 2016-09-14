@@ -8,7 +8,7 @@ Biblioteca em app para mobile com apostilas e conteúdos estudantis sobre tecnol
 4. Nayara Jamilly
 5. Wictor Alexadre
 6. 
-## Cronogrma
+### Cronogrma
 Data | Atividade
 ------- | -------
 08/09/2016 | Entrega do wireframe
