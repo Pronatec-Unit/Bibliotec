@@ -1,8 +1,19 @@
 Fala galera!!!
 Segue aqui alguns links para insentivar o trabalho dos programadores. São exemplos de bibliotecas em java...
+            
+            http://www.devmedia.com.br/utilizando-bibliotecas-jar-primeiros-passos/25339
+            https://www.caelum.com.br/apostila-java-orientacao-objetos/pacotes-organizando-suas-classes-e-bibliotecas/
+            http://pt.stackoverflow.com/questions/85757/bibliotecas-interface-classes-e-m%C3%A9todos
+            http://www.linhadecodigo.com.br/artigo/496/utilizando-as-bibliotecas-do-java-usando-o-jython.aspx
+            http://www.cin.ufpe.br/~if101/turmaatual/aulas/aula8/transparencias/pacotes.html
+            
 
-http://www.devmedia.com.br/utilizando-bibliotecas-jar-primeiros-passos/25339
-https://www.caelum.com.br/apostila-java-orientacao-objetos/pacotes-organizando-suas-classes-e-bibliotecas/
-http://pt.stackoverflow.com/questions/85757/bibliotecas-interface-classes-e-m%C3%A9todos
-http://www.linhadecodigo.com.br/artigo/496/utilizando-as-bibliotecas-do-java-usando-o-jython.aspx
-http://www.cin.ufpe.br/~if101/turmaatual/aulas/aula8/transparencias/pacotes.html
+JAVA_HOME, CLASSPATH e PATH. O que são, para que servem e como configura-los.
+
+           https://devjava.wordpress.com/2010/01/11/java_home-classpath-e-path-o-que-so-isso-para-que-servem-e-como-configura-los/
+           https://devsubdev.wordpress.com/2010/06/04/dica-configurando-as-variaveis-de-ambiente-do-jdk-no-windows/
+Introdução ao formato JSON
+            
+            http://www.devmedia.com.br/introducao-ao-formato-json/25275
+            
+
