@@ -13,4 +13,5 @@ Data| Atividade
 ------ | -------
 08/09/2016 | Entrega do wireframe. 
 12/09/2016 | Nova reuniao, para aperfeicoar o wireframe.
-14/09/2016 | Subiu o wireframe para o github
+14/09/2016 | Subiu o wireframe para o github.
+19/09/2016 | Reunião de equipe.
