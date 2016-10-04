@@ -1,5 +1,5 @@
 # Bibliotec
-Biblioteca em app para mobile com apostilas e conteúdos estudantis sobre tecnologia 
+Biblioteca em app para mobile com apostilas e conteúdos estudantis sobre tecnologia.
 
 ## Delta+ <h1>
 1. Flávia Primo: Gerente.
@@ -15,6 +15,6 @@ Data| Atividade
 12/09/2016 | Nova reuniao, para aperfeicoar o wireframe.
 14/09/2016 | Subiu o wireframe para o github.
 22/09/2016 | Reunião de equipe (Remarcada).
-28/09/2016 | Reunião pra criar novos projetos
-04/10/2016 | Tentativa de repara os erros do Android Studio
+28/09/2016 | Reunião pra criar novos projetos.
+04/10/2016 | Tentativa de repara os erros do Android Studio.
 
