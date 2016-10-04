@@ -16,3 +16,5 @@ Data| Atividade
 14/09/2016 | Subiu o wireframe para o github.
 22/09/2016 | Reunião de equipe (Remarcada).
 28/09/2016 | Reunião pra criar novos projetos
+04/10/2016 | Tentativa de repara os erros do Android Studio
+
