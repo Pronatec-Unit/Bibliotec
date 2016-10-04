@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.a5909.login.MainActivity"
+    android:background="@android:color/holo_orange_dark">
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textEmailAddress"
+        android:ems="10"
+        android:id="@+id/editText2"
+        android:background="#fdfcfc"
+        android:minHeight="40dp"
+        android:minWidth="250dp"
+        android:text="Nome ou E-mail:"
+        android:textColor="#030303"
+        android:layout_centerVertical="true"
+        android:layout_alignStart="@+id/editText" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="numberPassword"
+        android:ems="10"
+        android:id="@+id/editText"
+        android:textColor="#060505"
+        android:text="Senha"
+        android:background="#fcf4f4"
+        android:width="250dp"
+        android:maxHeight="50dp"
+        android:minHeight="40dp"
+        android:layout_below="@+id/editText2"
+        android:layout_alignEnd="@+id/button2" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Entrar"
+        android:id="@+id/button1"
+        android:layout_alignParentBottom="true"
+        android:layout_alignEnd="@+id/editText"
+        android:layout_marginEnd="42dp"
+        android:layout_marginBottom="101dp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Não Tenho Cadastro"
+        android:id="@+id/button2"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="50dp" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView"
+        android:layout_above="@+id/editText2"
+        android:layout_alignEnd="@+id/button1"
+        android:layout_marginBottom="76dp" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView2"
+        android:layout_alignTop="@+id/imageView"
+        android:layout_alignStart="@+id/button2" />
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageButton"
+        android:adjustViewBounds="false"
+        android:visibility="visible"
+        android:maxWidth="500dp"
+        android:maxHeight="500dp"
+        android:layout_alignBottom="@+id/imageView"
+        android:layout_alignEnd="@+id/editText2"
+        android:layout_toEndOf="@+id/imageView2"
+        android:background="@drawable/tema"
+        android:minHeight="500dp" />
+</RelativeLayout>
